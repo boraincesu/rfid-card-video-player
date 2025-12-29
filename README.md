@@ -89,5 +89,3 @@ MIT License - Feel free to use and modify.
 **Bora İncesu**
 
 ---
-
-Made with ❤️ for interactive displays
